@@ -1,0 +1,12 @@
+./Transformations.exe -input scene1_diffuse_light.txt -output scene1_image.tga -normal scene1_normal_image.tga -size 1000 1000
+./Transformations.exe -input scene2_ambient_light.txt -output scene2_image.tga -normal scene2_normal_image.tga -size 1000 1000
+./Transformations.exe -input scene3_perspective_camera.txt -output scene3_image.tga -normal scene3_normal_image.tga -size 1000 1000
+./Transformations.exe -input scene4_plane.txt -output scene4_image.tga -normal scene4_normal_image.tga -size 1000 1000
+./Transformations.exe -input scene5_sphere_triangle.txt -output scene5_image.tga -normal scene5_normal_image.tga -size 1000 1000
+./Transformations.exe -input scene6_cube_mesh.txt -output scene6_image.tga -normal scene6_normal_image.tga -size 1000 1000
+./Transformations.exe -input scene7_squashed_sphere.txt -output scene7_image.tga -normal scene7_normal_image.tga -size 1000 1000
+./Transformations.exe -input scene8_rotated_sphere.txt -output scene8_image.tga -normal scene8_normal_image.tga -size 1000 1000
+./Transformations.exe -input scene9_rotated_squashed_sphere.txt -output scene9_image.tga -normal scene9_normal_image.tga -size 1000 1000
+./Transformations.exe -input scene10_bunny_200.txt -output scene10_bunny_200.tga -normal scene10_normal_bunny_200.tga -size 1000 1000
+./Transformations.exe -input scene10_bunny_1k.txt -output scene10_bunny_1k.tga -normal scene10_normal_bunny_1k.tga -size 1000 1000
+./Transformations.exe -input scene11_axes_cube.txt -output scene11_image.tga -normal scene11_normal_image.tga -size 1000 1000
